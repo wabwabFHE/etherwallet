@@ -17,13 +17,14 @@ MyEtherWallet is an open source, javascript, client-side tool for generating Eth
 
 ### What can it do?
 
-- Import client wallet files and pre-sale wallet files.
-- Generate wallets completely client side and provide raw private keys, Keystore (Mist/geth), and paper version of the account.
+- Import client wallet files and pre-sale wallet files
+- Generate wallets completely client side and provide raw private keys, Keystore (Mist/geth), and paper version of the account
 - Bulk generate wallets
 - Generate Transactions and Broadcast Signed Transactions
-- Send Tokens based on EIP20.
-- Give users an easy way to safely send "Only ETH" or "Only ETC" to ensure they are not victim of replay attacks.
-- Generate and send offline transactions, ensuring your private keys never leave your computer.
+- Send Tokens based on EIP20
+- Give users an easy way to safely send "Only ETH" or "Only ETC" to ensure they are not victim of replay attacks
+- Generate and send offline transactions, ensuring your private keys never leave your computer
+- Custom ERC-721/ERC-404 support
 
 
 
